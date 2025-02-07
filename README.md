@@ -83,7 +83,7 @@ For more, check out my [repositories] https://github.com/G2L399.
 A quick look at my GitHub activity:
 
 [![G2L399](https://github-readme-stats.vercel.app/api?username=G2L399&show_icons=true&theme=radical)](https://github.com/G2L399)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=G2L399&theme=radical)](https://github.com/G2L399)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=G2L399&theme=radical)](https://github.com/G2L399) <br />
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G2L399&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
