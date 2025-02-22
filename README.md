@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves Web Developme
 ## About Me
 
 - 🔭 **Currently working on:** Personal Projects
-- 🌱 **Learning:** Supabase, Svelte
+- 🌱 **Learning:** Neon, Svelte
 - 📫 **How to reach me:** bagassatwi@gmail.com
-- 😄 **Fun fact:** It's been over 2 years since i started Web development, and around 4 years since i started my programming journey
+- ⚡ **Fun fact:** It's been over 2 years since i started Web development, and around 4 years since i started my programming journey
 
 ---
 
@@ -37,7 +37,6 @@ Here are some of the languages, frameworks, and tools I work with:
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-
 
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
@@ -88,17 +87,17 @@ For more, check out my [repositories] https://github.com/G2L399.
 
 A quick look at my GitHub activity:
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=G2L399&theme=radical)](https://github.com/G2L399) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=G2L399&theme=radical)](https://github.com/G2L399)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G2L399&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![G2L399](https://github-readme-stats.vercel.app/api?username=G2L399&show_icons=true&theme=radical)](https://github.com/G2L399)
 
-
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=G2L399&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
+
+## ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Connect with Me
 
