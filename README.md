@@ -16,8 +16,8 @@
 
 > Full-stack developer passionate about creating innovative web solutions and exploring AI technologies
 
-- 🚀 Specialized in **Web Development** and **AI Integration**
-- � Currently exploring: **Neon**, **Svelte**, and **Advanced AI Applications**
+- 🚀 Specialized in **Web Development**
+- � Currently exploring: **Neon**, **Svelte**
 - 🎯 Goal: Building scalable, user-centric applications that make a difference
 - 📫 Reach me at: **bagassatwi@gmail.com**
 
